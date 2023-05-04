@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 	
 	        String str = "test";
-	        int year = 2024;
+	        int year = 1700;
 
 	        boolean isEvenLength = StringaPariDispari.isEvenLength(str);
 	        boolean isLeapYear = AnnoBisestile.isLeapYear(year);
